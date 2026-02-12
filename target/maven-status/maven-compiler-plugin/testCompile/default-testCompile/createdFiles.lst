@@ -1,1 +1,9 @@
-src\test\java\tests\DummyTest.class
+base\BaseTest.class
+tests\ui\LoginTest.class
+tests\api\AuthAPITest.class
+tests\DummyTest.class
+pages\LoginPage.class
+tests\ui\LaunchBrowserTest.class
+tests\api\UserAPITest.class
+tests\api\UserSchemaTest.class
+base\BaseAPITest.class
